@@ -8,7 +8,7 @@ See https://smithlabdurham.github.io/ for more about my group's research interes
 
 # Repo highlights
 
-##  R packages:
+##  R packages
 
 - [Ternary](https://github.com/ms609/Ternary/): create ternary plots and Holdridge diagrams.
 
@@ -27,16 +27,16 @@ appropriate treatment of ‘inapplicable’ characters.
 
 - [Rogue](https://github.com/ms609/Rogue/): Identify rogue taxa to improve consensus trees.
 
-# Student resources
+## Student resources
 
 - [Concentration](https://github.com/ms609/Concentration/): Strategies to improve concentration and maximize productivity
 
 - [Ancient Life and its Environment](https://smithlabdurham.github.io/GEOL2301): Teaching resources for a 
   palaeontological half-module
   
-- [Preferences](https://github.com/ms609/preferences): Default configurations for scientific research software
+- [preferences](https://github.com/ms609/preferences): Default configurations for scientific research software
 
-# Reproducible research
+## Reproducible research
 
 - [hyoliths](https://github.com/ms609/hyoliths): Supplementary dataset for Sun _et al._ (2018): a useful template for
   morphological phylogenetic analysis.
