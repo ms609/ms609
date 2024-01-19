@@ -29,14 +29,18 @@ appropriate treatment of ‘inapplicable’ characters.
 
 ## Student resources
 
-- [Concentration](https://github.com/ms609/Concentration/): Strategies to improve concentration and maximize productivity
+- [Concentration](https://github.com/ms609/Concentration/): Strategies to improve concentration and maximize productivity.
 
 - [Ancient Life and its Environment](https://smithlabdurham.github.io/GEOL2301): Teaching resources for a 
-  palaeontological half-module
+  palaeontological half-module.
   
-- [preferences](https://github.com/ms609/preferences): Default configurations for scientific research software
+- [preferences](https://github.com/ms609/preferences): Default configurations for scientific research software.
+
+- [dictionary](https://github.com/smithlabdurham/dictionary): Personal wordlist of scientific terms to supplement spell-checkers.
 
 ## Reproducible research
+
+- [phylo-workflow](https://github.com/smithlabdurham/phylo-workflow): Workflow for semi-automatic phylogenetic analysis of morphological data.
 
 - [hyoliths](https://github.com/ms609/hyoliths): Supplementary dataset for Sun _et al._ (2018): a useful template for
   morphological phylogenetic analysis.
