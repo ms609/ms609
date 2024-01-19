@@ -38,6 +38,8 @@ appropriate treatment of ‘inapplicable’ characters.
 
 - [dictionary](https://github.com/smithlabdurham/dictionary): Personal wordlist of scientific terms to supplement spell-checkers.
 
+- [module-map](https://module-map.github.io/): JavaScript interface to navigate Earth Science degree pathways.
+
 ## Reproducible research
 
 - [phylo-workflow](https://github.com/smithlabdurham/phylo-workflow): Workflow for semi-automatic phylogenetic analysis of morphological data.
