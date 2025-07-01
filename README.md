@@ -1,6 +1,6 @@
 # Martin R. Smith
 
-I am an Associate Professor in Durham University's Department of Earth Sciences.  I use the fossil record to 
+I am a Professor in Durham University's Department of Earth Sciences.  I use the fossil record to 
 illuminate the origins of life's complexity.  To this end, I have developed and implemented a number of 
 methods to improve the inference of phylogenetic history ("evolutionary family trees"), mainly in R/C++.
 
