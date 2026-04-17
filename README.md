@@ -19,6 +19,8 @@ See https://smithlabdurham.github.io/ for more about my group's research interes
 - [MapTrees](https://ms609.github.io/TreeDist/dev/articles/treespace.html): an interactive user
 interface for the creation, visualization and evaluation of tree landscapes.
 
+- [PlotTools](https://github.com/ms609/PlotTools/): simple utilities to facilitate plotting.
+
 - [TreeTools](https://github.com/ms609/TreeTools/): utilities for the creation, modification and
 analysis of phylogenetic trees.
 
