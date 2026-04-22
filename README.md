@@ -2,13 +2,15 @@
 
 I am a Professor in Durham University's Department of Earth Sciences.  I use the fossil record to 
 illuminate the origins of life's complexity.  To this end, I have developed and implemented a number of 
-methods to improve the inference of phylogenetic history ("evolutionary family trees"), mainly in R/C++.
+methods to improve the reconstruction of stratigraphic alignments, and the inference of phylogenetic
+history ("evolutionary family trees"), mainly in R/C++.
 
 See https://smithlabdurham.github.io/ for more about my group's research interests.
 
 # Repo highlights
 
 ##  R packages
+- [StratoBayes](https://stratobayes.com): automated stratigraphic correlation.
 
 - [Ternary](https://github.com/ms609/Ternary/): create ternary plots and Holdridge diagrams.
 
